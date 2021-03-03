@@ -1,6 +1,6 @@
 #skills
 
-below is a list i can do 
+below is a _list_ **i can do** 
 
 ## thing
 - sleep
